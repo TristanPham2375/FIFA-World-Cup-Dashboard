@@ -17,6 +17,8 @@ The dataset includes the following columns:
 - **Runners-up:** The country that finished as the runner-up in that year.
 - **Host:** The country that hosted the World Cup.
 
+![image](https://github.com/user-attachments/assets/9080a640-ffd2-4700-a803-e2453f47da0b)
+
 ## 💻 Technologies Used
 
 - **Python:** The primary language used to develop the dashboard.
