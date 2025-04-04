@@ -1,6 +1,6 @@
 # FIFA-World-Cup-Dashboard
 
-## 📊 Project Overview
+## 📊 Project Overview 
 
 This project presents an interactive dashboard that allows users to explore the history of FIFA World Cup winners. The dashboard allows users to:
 
